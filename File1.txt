@@ -1,2 +1,3 @@
 Line1 from File1 staging started
+Line2 added
 
